@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web-tech-project/static/css/main.8c0387b0.css",
+    "main.js": "/web-tech-project/static/js/main.c44477c6.js",
+    "index.html": "/web-tech-project/index.html",
+    "main.8c0387b0.css.map": "/web-tech-project/static/css/main.8c0387b0.css.map",
+    "main.c44477c6.js.map": "/web-tech-project/static/js/main.c44477c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c0387b0.css",
+    "static/js/main.c44477c6.js"
+  ]
+}
