@@ -1,6 +1,6 @@
 {
   "homepage": "https://azemalatoo.github.io/web-tech-project",
-  "name": "kr-8",
+  "name": "web-tech",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,7 +24,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b mainaz -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
