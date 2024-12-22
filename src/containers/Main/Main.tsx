@@ -42,9 +42,9 @@ const Main = () => {
             </nav>
 
             <Routes>
-                <Route path="/" element={<QuotesPage />} />
-                <Route path="/new-quote" element={<AddPage />} />
-                <Route path="/edit-quote/:id" element={<EditPage />} />
+                <Route path="/" element={(<QuotesPage />)} />
+                <Route path="/new-quote" element={(<AddPage />)} />
+                <Route path="/edit-quote/:id" element={(<EditPage />)} />
             </Routes>
         </div>
     );
